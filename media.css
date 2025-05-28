@@ -33,6 +33,7 @@ main {
   main {
     flex-direction: column;
     align-items: center;
+    background-color: aquamarine;
   }
 
   .caixa {
